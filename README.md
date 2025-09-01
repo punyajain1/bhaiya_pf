@@ -1,6 +1,6 @@
-# 🚀 Punya's Digital Portfolio
+# 🚀 Ujjwal Jain's Digital Portfolio
 
-Welcome to my corner of the internet! 👋 A sleek, typewriter-inspired portfolio that combines nostalgia with modern web development. Built with love, caffeine, and lots of code.
+Welcome to my corner of the internet! 👋 A Software Engineer with 5+ years of experience building distributed systems and cloud-native applications. This sleek, typewriter-inspired portfolio combines nostalgia with modern web development, showcasing my expertise in low-latency, high-throughput backend services.
 
 ## ✨ What Makes This Special
 
@@ -9,16 +9,17 @@ Welcome to my corner of the internet! 👋 A sleek, typewriter-inspired portfoli
 - **📱 Responsive Excellence**: Looks amazing whether you're on a phone or a 4K monitor
 - **⚡ Modern Performance**: Next.js 15 powering lightning-fast experiences
 - **🔧 Developer Friendly**: TypeScript + Tailwind CSS = Happy coding experience
+- **🚀 Enterprise Scale**: Built by someone who has delivered platforms used by 2M+ users with 99.9% reliability
 
 ## 🗂️ What's Inside
 
-- **👋 Hello World**: Personal introduction with a dash of personality
-- **💻 Tech Arsenal**: Programming languages I speak fluently (and some I'm still learning!)
-- **🛠️ Skills Showcase**: The tools and frameworks in my developer toolkit
-- **💼 Professional Journey**: Where I've been and what I've built
-- **🎯 Project Gallery**: Cool things I've created (some might surprise you!)
-- **🏆 Certifications**: Official proof that I know what I'm talking about
-- **🌟 Achievements**: Moments that made me proud (and hopefully impress you too!)
+- **👋 About Me**: Software Engineer specializing in distributed systems and cloud-native applications
+- **💻 Tech Arsenal**: Python, Java, C/C++, JavaScript, TypeScript, Node.js, React, Spring Boot, TensorFlow, PyTorch
+- **🛠️ Skills Showcase**: AWS, GCP, Azure, Docker, Kubernetes, microservices, and real-time data pipelines
+- **💼 Professional Journey**: 5+ years building scalable systems at companies like Starportal, Intract, Syndr, and Ion Group
+- **🎯 Project Gallery**: Distributed systems, trading platforms, and ML-driven solutions
+- **🏆 Certifications**: AWS Certified Cloud Practitioner, Google Project Management Professional
+- **� Education**: MS in Business and Technology from Purdue University, B.Tech in IT from GGSIPU
 
 ## 🚀 Quick Start Guide
 
@@ -34,8 +35,8 @@ Ready to explore? Here's how to get this beauty running locally:
 
 1. **Clone this masterpiece**
    ```bash
-   git clone [your-repo-url]
-   cd portfolio_pj
+   git clone https://github.com/punyajain1/bhaiya_pf.git
+   cd bhaiya_pf
    ```
 
 2. **Install the dependencies** (grab a coffee, this might take a moment ☕)
@@ -77,18 +78,34 @@ Want to customize this portfolio? Here's your roadmap to personalization:
 - **Tailwind CSS** - Utility-first styling that's as addictive as it is powerful 🎨
 - **Courier Prime** - The typewriter font that brings vintage vibes to modern web ✍️
 
+### 💼 Professional Tech Arsenal
+- **Languages**: Python, Java, C/C++, JavaScript, TypeScript, Node.js
+- **Frontend**: React, HTML/CSS
+- **Backend**: Spring Boot, RESTful APIs, Microservices
+- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
+- **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
+- **Machine Learning**: TensorFlow, PyTorch, LangChain
+- **Tools**: Git, Jira, Confluence, JUnit, CloudWatch
+
 ## 💡 Design Philosophy
 
-This portfolio draws inspiration from the golden age of typewriters - when every word mattered and aesthetics were beautifully simple. It's a love letter to minimalism in a world of digital noise.
+This portfolio draws inspiration from the golden age of typewriters - when every word mattered and aesthetics were beautifully simple. It's a love letter to minimalism in a world of digital noise, much like how efficient code architecture cuts through complexity.
 
-**The Goal?** Let your work speak for itself while creating an experience that's both memorable and professional.
+**The Goal?** Let your work speak for itself while creating an experience that's both memorable and professional - just like building scalable systems that handle millions of users seamlessly.
+
+## 📍 Contact Information
+
+- **📧 Email**: ujjwal451@gmail.com
+- **📱 Phone**: +1 765-409-4910
+- **🔗 LinkedIn**: [linkedin.com/in/ujwjl](https://www.linkedin.com/in/ujwjl/)
+- **📍 Location**: West Lafayette, IN
 
 ---
 
 ## 🤝 Let's Connect!
 
-Enjoyed exploring this portfolio? I'd love to hear from you! Whether you want to collaborate, chat about tech, or just say hi - don't be a stranger.
+Enjoyed exploring this portfolio? I'd love to hear from you! Whether you want to collaborate on distributed systems, discuss cloud architecture, or chat about the latest in ML/AI - don't be a stranger.
 
-**Built with ❤️ by Punya Jain**
+**Built with ❤️ by Ujjwal Jain**
 
 *P.S. - Yes, I did have fun writing this README. Code should be serious, but documentation can have personality! 😊*
